@@ -14,6 +14,7 @@
     "typeRoots": [
       "node_modules/@types"
     ],
+    "types": ["node", "semantic-ui"],
     "lib": [
       "es2018",
       "dom"
